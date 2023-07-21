@@ -1,0 +1,74 @@
+git config --global user.name "SrainaP"
+  168  sudo apt install git
+  169  git config --global user.name "SrainaP"
+  170  git init /desktop/devOPs
+  171  git init /desktop/Sraina/devOPs
+  172  cd desktop
+  173  git init /Desktop/Sraina/devOPs
+  174  cd Desktop
+  175  cd Sraina
+  176  cd devOPs
+  177  git init
+  178  cd ..
+  179  echo "# SrainaP" >> README.md
+  180  git init
+  181  git commit -m "first commit"
+  182  git config --global user.name "SrainaP"
+  183  git commit -m "first commit"
+  184  git remote add origin https://github.com/SrainaP/SrainaP.git
+  185  git branch -M main
+  186  git remote add origin https://github.com/SrainaP/SrainaP.git
+  187  cd Desktop
+  188  cd Sraina
+  189  git remote add origin https://github.com/SrainaP/SrainaP.git
+  190  git branch -M main
+  191  git branch -M master
+  192  git branch -M main
+  193  git push -u origin main
+  194  cd Desktop
+  195  cd Sraina
+  196  git init
+  197  git clone https://github.com/SrainaP/Profile.git
+  198  git add .
+  199  git status
+  200  git add .
+  201  git commit -m "First Commit"
+  202  git config --global user.name "SrainaP"
+  203  git commit -m "First Commit"
+  204  git clone https://github.com/PSraina/devOPs.git
+  205  cd Desktop
+  206  git add devOPs.png
+  207  git commit -m "First Commit"
+  208  git config --global user.name "PSraina"
+  209  git commit -m "First Commit"
+  210  git config --global user.email "sraina.p@gmail.com"
+  211  git commit -m "First Commit"
+  212  git push -u origin main
+  213  git push -u origin master
+  214  git push -u origin main
+  215  git push -u origin master
+  216  git clone https://github.com/PSraina/devOPs.git
+  217  cd devOPs
+  218  git status
+  219  git init
+  220  git add .
+  221  git commit -m "Initial Commit"
+  222  git branch
+  223  git push -u origin master
+  224  git diff
+  225  git dif-staged
+  226  git diff -staged
+  227  git diff --staged
+  228  git pull origin master 
+  229  ls
+  230  git branch head
+  231  git branxh
+  232  git branch
+  233  git checkout head
+  234  git add .
+  235  git commit -m "initial"
+  236  git push -u origin master
+  237  git branch
+  238  git push -u origin head
+  239  git log 
+
